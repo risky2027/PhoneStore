@@ -1,0 +1,38 @@
+﻿@model Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "Форма заказа";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Оформить заказ</h2>
+<p>Пожалуйста, введите Ваши контактные данные</p>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        <label>Ваше имя</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        <label>Контактный номер телефона</label>
+        @Html.TextBoxFor(x => x.PhoneNumber, new { @class = "form-control", @placeholder = "В формате: (999) 999-99-99" })
+    </div>
+    
+    <div class="form-group">
+        <label>Адрес электронной почты</label>
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "test@mail.ru" })
+    </div>
+
+    <div class="form-group">
+        <label>Адрес доставки</label>
+        @Html.TextBoxFor(x => x.Line, new { @class = "form-control"})
+    </div>
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Обработать заказ" />
+    </div>
+}
+

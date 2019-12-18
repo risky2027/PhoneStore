@@ -1,0 +1,33 @@
+﻿@model Domain.Entities.Phone
+
+<div class="panel panel-info">
+    <div class="panel-body">
+        @if (Model.ImageData != null)
+        {
+            <div class="pull-left" style="margin-left: 10px">
+                <img class="img-thumbnail" width="180" height="150"
+                     src="@Url.Action("GetImage", "Phones", new { Model.PhoneId })" />
+            </div>
+        }
+        <h3>
+            <strong>@Model.Mark @Model.Model</strong>
+            <span class="pull-right label label-info">@Model.Price.ToString("# руб")</span>
+            @*<br />
+            <span class="pull-right label label-primary">Подробнее о товаре</span>*@
+        </h3>
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            <div class="pull-right">
+                @Html.HiddenFor(x => x.PhoneId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-success" value="В корзину" />
+            </div>
+        }
+        <a href= @Url.Action("Info", "Phones", new { Id = Model.PhoneId })>
+            Подробнее о товаре
+        </a>
+
+        @*<span>@Html.ActionLink("Подробнее о товаре","Info","Phones", new { Model.PhoneId })</span>*@
+        @*<span class="lead">@Model.Description</span>*@
+    </div>
+</div>

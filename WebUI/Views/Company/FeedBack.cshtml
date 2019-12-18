@@ -1,0 +1,39 @@
+﻿@model Domain.Entities.FeedBack
+
+@{
+    ViewBag.Title = "Обратная связь";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<div class="col-md-6 col-md-offset-3">
+    <h3>Форма обратной связи</h3>
+    <h4>Пожалуйста, введите Ваши данные и обращение</h4>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <div class="form-group">
+            <label>Ваше имя</label>
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Контактный номер телефона</label>
+            @Html.TextBoxFor(x => x.PhoneNumber, new { @class = "form-control", @placeholder = "В формате: (999) 999-99-99" })
+        </div>
+
+        <div class="form-group">
+            <label>Адрес электронной почты</label>
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "test@mail.ru" })
+        </div>
+
+        <div class="form-group">
+            <label>Сообщение</label>
+            @Html.TextAreaFor(x => x.Message, new { @class = "form-control", @rows = "5" })
+        </div>
+
+        <div class="text-center">
+            <input class="btn btn-primary" type="submit" value="Отправить" />
+        </div>
+    }
+</div>
+

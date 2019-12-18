@@ -1,0 +1,135 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+
+    margin-top: 70px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+/*.centered {
+    text-align: center;
+}*/
+
+/*a {
+    color: #f85c37;
+}
+
+a:hover, a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}*/
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar {
+    font-weight: 800;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-inverse {
+    background: #2d2d2d;
+    border-color: #2d2d2d;
+}
+
+/*не работает*/
+/*.navbar-inverse .navbar-nav  > .active > a {
+   background-color: #ff7878;
+}*/
+
+.navbar-inverse .navbar-brand {
+    color: #999;
+    font-weight: bolder;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.w {
+    padding-top: 35px;
+}
+
+footer {
+    background: #2d2d2d;
+    border-color: #2d2d2d;
+    margin-top: 15px;
+}
+
+.first-footer a {
+    color: #f2f2f2;
+}
+
+.first-footer a:hover, .first-footer a:focus {
+    color: #52a4ac;
+    text-decoration: none;
+    outline: 0;
+}
+
+.first-footer h4 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #c49b9b;
+}
+/**/
+
+#price {
+    margin-bottom: 5px;
+}
+
+#cartTable td {
+    vertical-align: middle;
+}
+
+/*.navbar-right {
+    float: right !important;
+    margin-right: 15px;
+    margin-left: 15px;
+}*/
+
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-void {
+    display: none;
+}

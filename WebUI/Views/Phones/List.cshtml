@@ -1,0 +1,15 @@
+﻿@using WebUI.Models
+@model PhonesListViewModel
+
+@{
+    ViewBag.Title = "Смартфоны";
+}
+
+@foreach (var phone in Model.Phones)
+{
+    @Html.Partial("_PhoneSummary", phone)
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+</div>

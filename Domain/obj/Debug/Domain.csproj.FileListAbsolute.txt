@@ -1,0 +1,58 @@
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\Domain.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\Domain.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\obj\Debug\Domain.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\obj\Debug\Domain.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\Domain.dll.config
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2015\Projects\PhoneStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+H:\диплом\PhoneStore\Domain\bin\Debug\Domain.dll.config
+H:\диплом\PhoneStore\Domain\bin\Debug\Domain.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\Domain.pdb
+H:\диплом\PhoneStore\Domain\bin\Debug\EntityFramework.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Helpers.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Mvc.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Razor.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\EntityFramework.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Helpers.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Mvc.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.Razor.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+H:\диплом\PhoneStore\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+H:\диплом\PhoneStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+H:\диплом\PhoneStore\Domain\obj\Debug\Domain.dll
+H:\диплом\PhoneStore\Domain\obj\Debug\Domain.pdb

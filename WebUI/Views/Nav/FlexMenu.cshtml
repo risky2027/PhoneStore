@@ -1,0 +1,32 @@
+﻿@model IEnumerable<string>
+
+@{
+    bool horizontal = (bool)(ViewContext.RouteData.Values["horizontalNav"] ?? false);
+    string wrapperClasses = horizontal ? "btn-group btn-group-sm btn-group-justifed" : null;
+}
+
+<div class="@wrapperClasses">
+    @* style="position:fixed" *@
+    @Html.ActionLink("Все категории", "List", "Phones", null,
+    new
+    {
+        @class = horizontal ? "btn btn-default btn-sm" :
+        "btn btn-block btn-default btn-lg"
+    })
+
+    @foreach (var link in Model)
+    {
+        @Html.RouteLink(link, new
+        {
+            controller = "Phones",
+            action = "List",
+            category = link,
+            page = 1
+        }, new
+        {
+            @class = (horizontal ? "btn btn-default btn-sm" :
+            "btn btn-block btn-default btn-lg")
+            + (link == ViewBag.SelectedCategory ? "btn-primary" : "")
+        })
+    }
+</div>

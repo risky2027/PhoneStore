@@ -1,0 +1,138 @@
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\WebUI.dll.config
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\WebUI.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\WebUI.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Castle.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Domain.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Moq.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.Web.Common.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\WebActivatorEx.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Domain.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Castle.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Moq.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.Web.Common.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Webpages.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\ru\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\obj\Debug\WebUI.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\obj\Debug\WebUI.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\PhoneStore\WebUI\bin\EntityFramework.SqlServer.xml
+H:\диплом\PhoneStore\WebUI\bin\ApplicationInsights.config
+H:\диплом\PhoneStore\WebUI\bin\roslyn\csc.exe
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\диплом\PhoneStore\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\диплом\PhoneStore\WebUI\bin\roslyn\System.Collections.Immutable.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+H:\диплом\PhoneStore\WebUI\bin\roslyn\vbc.exe
+H:\диплом\PhoneStore\WebUI\bin\roslyn\VBCSCompiler.exe
+H:\диплом\PhoneStore\WebUI\bin\roslyn\VBCSCompiler.exe.config
+H:\диплом\PhoneStore\WebUI\bin\WebUI.dll.config
+H:\диплом\PhoneStore\WebUI\bin\WebUI.dll
+H:\диплом\PhoneStore\WebUI\bin\WebUI.pdb
+H:\диплом\PhoneStore\WebUI\bin\Castle.Core.dll
+H:\диплом\PhoneStore\WebUI\bin\Domain.dll
+H:\диплом\PhoneStore\WebUI\bin\EntityFramework.dll
+H:\диплом\PhoneStore\WebUI\bin\EntityFramework.SqlServer.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.Web.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.WindowsServer.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.ApplicationInsights.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\диплом\PhoneStore\WebUI\bin\Moq.dll
+H:\диплом\PhoneStore\WebUI\bin\Ninject.dll
+H:\диплом\PhoneStore\WebUI\bin\Ninject.Web.Common.dll
+H:\диплом\PhoneStore\WebUI\bin\Ninject.Web.Mvc.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Helpers.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Mvc.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Razor.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.dll
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.Razor.dll
+H:\диплом\PhoneStore\WebUI\bin\WebActivatorEx.dll
+H:\диплом\PhoneStore\WebUI\bin\Domain.pdb
+H:\диплом\PhoneStore\WebUI\bin\Castle.Core.xml
+H:\диплом\PhoneStore\WebUI\bin\EntityFramework.xml
+H:\диплом\PhoneStore\WebUI\bin\EntityFramework.SqlServer.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.Web.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.AI.WindowsServer.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.ApplicationInsights.xml
+H:\диплом\PhoneStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\диплом\PhoneStore\WebUI\bin\Moq.xml
+H:\диплом\PhoneStore\WebUI\bin\Ninject.xml
+H:\диплом\PhoneStore\WebUI\bin\Ninject.Web.Common.xml
+H:\диплом\PhoneStore\WebUI\bin\Ninject.Web.Mvc.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Razor.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Webpages.Razor.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Helpers.xml
+H:\диплом\PhoneStore\WebUI\bin\System.Web.Mvc.xml
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Razor.resources.dll
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Webpages.resources.dll
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Helpers.resources.dll
+H:\диплом\PhoneStore\WebUI\bin\ru\System.Web.Mvc.resources.dll
+H:\диплом\PhoneStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+H:\диплом\PhoneStore\WebUI\obj\Debug\WebUI.dll
+H:\диплом\PhoneStore\WebUI\obj\Debug\WebUI.pdb
